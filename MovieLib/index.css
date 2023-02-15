@@ -1,0 +1,49 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+}
+#countBygenre{
+    margin-top: 55px;
+    width: 40%;
+    float: left;
+    box-shadow: gray 2px 2px;
+}
+input[type='text'],#search-select{
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+    box-shadow: gray 2px 2px;
+    font-weight: 600;
+    font-size: large;
+    padding: 5px;
+}
+button{
+    height: 35px;
+    width: 200px;
+    font-size: large;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: aqua;
+    border-width: 1px;
+    box-shadow: gray 2px 2px;
+}
+li{
+    height: 40px;
+    width: 350px;
+    border: 1px solid black;
+    padding: 7px;
+    font-size: large;
+    border-radius: 5px;
+    background-color: chocolate;
+    margin: 3px;
+}
+#movie-container{
+    margin-top: 25px;
+    width: 50%;
+    float: left;
+    box-shadow: gray 2px 2px;
+    padding: 15px;
+}
